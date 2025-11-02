@@ -1,0 +1,28 @@
+# Dockerfile
+# Purpose: Containerize the Python application for consistent deployment.
+
+# 1. Use a lightweight base image for Python (Good practice for production)
+FROM python:3.10-slim
+
+# 2. Set the working directory inside the container
+WORKDIR /app
+
+# 3. Copy the requirements file into the container
+# NOTE: Create a requirements.txt with: pandas, milvus, groq, python-dotenv, etc.
+COPY requirements.txt .
+
+# 4. Install dependencies efficiently (Skipping cache saves space)
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 5. Copy the rest of the application code
+COPY routing_logic.py .
+COPY rag_query.py .
+COPY main_app.py . # Assuming a main file runs the workflow
+
+# 6. Set environment variables (for API keys, DB connections, etc.)
+ENV PYTHONUNBUFFERED 1
+ENV GROQ_API_KEY="YOUR_KEY"
+ENV MILVUS_HOST="milvus-service.internal"
+
+# 7. Define the command to run the application when the container starts
+CMD ["python", "main_app.py"]
