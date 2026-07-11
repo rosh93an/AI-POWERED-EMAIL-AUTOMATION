@@ -1,0 +1,58 @@
+=========================================
+LENDENCLUB KNOWLEDGE BASE: SYSTEM PRODUCTS
+=========================================
+
+[PRODUCT: IM - INSTAMONEY PERSONAL LOANS]
+InstaMoney is LenDenClub's proprietary digital platform offering instant personal loans tailored for salaried professionals. It aims to bridge short-term cash flow gaps with minimal documentation and rapid disbursement.
+
+1. Product Definition & Overview:
+InstaMoney provides unsecured personal loans ranging from INR 5,000 to INR 25,000. The entire application process is 100% digital and managed via the InstaMoney mobile app or web platform. Approved loans are disbursed directly to the applicant's verified bank account within 2 hours.
+
+2. Loan Terms and Interest Rates:
+- Interest Rate Range: Flat interest rates ranging from 24% to 36% per annum (p.a.) depending on the customer's risk profile, credit assessment, and internal scorecard ratings.
+- Repayment Tenure: Flexible repayment terms extending from 3 months up to a maximum of 12 months, repaid in monthly Equated Monthly Installments (EMIs).
+- Prepayment Policy: Borrowers can preclose their loans without any foreclosure charges after successfully paying at least 3 consecutive EMIs. Preclosure before 3 EMIs incurs a standard 3% foreclosure fee on the outstanding principal.
+
+3. Eligibility Criteria:
+- Employment Status: The applicant must be a full-time salaried employee with a registered firm or company. Freelancers and self-employed individuals are currently not eligible for InstaMoney.
+- Monthly Income: A minimum net monthly take-home salary of INR 20,000 is required, which must be credited directly to the applicant's bank account (salary received in cash or via cheque is not eligible).
+- Age Limits: The applicant must be a citizen of India, aged between 21 years and 55 years at the time of application.
+- Credit Score: A minimum credit score (CIBIL or equivalent) of 600 is required. Applicants with a history of defaults in the past 12 months will be automatically rejected.
+
+4. Fee Structure & Charges:
+- Processing Fees: A non-refundable processing fee of 2% to 5% of the loan amount is deducted upfront at the time of disbursement.
+- Late Payment Charges: Late payments incur a daily penalty of 2% of the outstanding EMI amount, plus a flat bouncing charge of INR 500 per auto-debit failure.
+- Platform Convenience Fee: A flat convenience fee of INR 199 is applicable to every disbursed loan.
+
+5. Documentation Requirements:
+Applicants must upload clear scanned copies of the following documents:
+- Identity & Address Proof: Permanent Account Number (PAN) Card (mandatory) and Aadhaar Card.
+- Income Proof: Bank statements for the last 3 months showing regular salary credits, and the latest salary slip showing details of deductions.
+
+--------------------------------------------------------------------------------
+
+[PRODUCT: IM+ - PREMIUM P2P LENDING PORTFOLIOS]
+IM+ (Premium P2P Lending) is LenDenClub's curated peer-to-peer lending investment product. It allows individual and institutional investors to lend money directly to verified borrowers (primarily InstaMoney loan seekers) using automated matching technology.
+
+1. Product Definition & Investment Structure:
+IM+ operates as a structured investment portfolio rather than a single-loan investment. When an investor deposits capital into IM+, the platform's proprietary auto-diversification engine automatically splits the capital into fractional investments (e.g., INR 50 to INR 100 per borrower) across hundreds of verified borrowers. This strategy minimizes credit risk and mitigates default impact.
+
+2. Expected Returns and Yields:
+- Expected Returns: Returns on IM+ range from 12% to 15% per annum, net of defaults and platform fees.
+- Profit Distribution: Interest collected from borrowers is credited back to the investor's escrow account monthly. Investors can choose between a "Payout" model (monthly cash flow) or a "Reinvestment" model (cumulative compounding growth).
+
+3. Portfolio Risk Categorization:
+Investors can select from three main risk portfolios based on their risk appetite:
+- Conservative Portfolio: Capital is allocated to low-risk, prime borrowers (credit score > 750). Yields are stable around 12% p.a., with minimal default probability.
+- Moderate Portfolio: Capital is split between prime and sub-prime borrowers. Yields range from 13% to 14% p.a., balancing risk and return.
+- Aggressive Portfolio: Capital is allocated to higher-yield, sub-prime borrowers. Yields range up to 15% p.a., but are subject to higher default rates.
+
+4. Maturity, Lock-in, and Liquidating Terms:
+- Lock-in Period: IM+ portfolios come with a mandatory 3-month lock-in period, during which funds cannot be withdrawn.
+- Maturity Options: Portfolios can be created with tenures of 3 months, 6 months, 12 months, or 24 months.
+- Premature Withdrawal: Investors can request premature liquidation of their portfolio after the 3-month lock-in period. A liquidating fee of 1% of the total portfolio value is charged for early exits. Full capital withdrawal at maturity is 100% free of charges.
+- Withdrawal Processing: Liquidation requests are processed by matching the investor's loans to other active investors on the platform. It takes 2 to 5 business days for the funds to reflect in the investor's linked bank account.
+
+5. Investment Limits:
+- Minimum Investment: INR 10,000 per portfolio.
+- Maximum Investment: INR 50,00,000 across all P2P platforms combined, as per Reserve Bank of India (RBI) regulations.

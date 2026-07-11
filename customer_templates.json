@@ -1,0 +1,387 @@
+[
+  {
+    "template_id": "im_eligibility_salaried",
+    "product_segment": "IM",
+    "keywords": ["salaried", "job", "profession", "employee", "freelancer", "self-employed"],
+    "description": "Explains that loans are only available to salaried individuals.",
+    "text_payload": "Dear {{customer_name}},\n\nThank you for reaching out. Please note that InstaMoney personal loans are currently available exclusively for full-time salaried employees. Self-employed individuals, freelancers, and business owners are not eligible at this stage. You must have a regular salary credit from a registered firm to apply.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_eligibility_income",
+    "product_segment": "IM",
+    "keywords": ["income", "salary credit", "minimum income", "salary amount", "take home", "20000"],
+    "description": "Explains the minimum income requirement of INR 20,000.",
+    "text_payload": "Dear {{customer_name}},\n\nTo be eligible for an InstaMoney loan, your net monthly take-home salary must be at least INR 20,000. This income must be credited directly to your bank account via bank transfer. Cash salary or cheques are not accepted as valid income proof.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_eligibility_age",
+    "product_segment": "IM",
+    "keywords": ["age limit", "how old", "birth date", "young", "old", "55 years", "21 years"],
+    "description": "Details the age limits (21-55 years).",
+    "text_payload": "Dear {{customer_name}},\n\nInstaMoney loans are eligible for applicants aged between 21 and 55 years at the time of application. Unfortunately, applicants below 21 or above 55 years of age cannot be processed by our system.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_eligibility_cibil",
+    "product_segment": "IM",
+    "keywords": ["cibil", "credit score", "experian", "score rating", "history", "default"],
+    "description": "Explains credit score requirements.",
+    "text_payload": "Dear {{customer_name}},\n\nWe require a minimum credit score of 600 (CIBIL or equivalent) for loan approval. Additionally, applicants should not have any payment defaults or active write-offs in the last 12 months.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_interest_rate",
+    "product_segment": "IM",
+    "keywords": ["interest rate", "roi", "interest charges", "percentage p.a.", "charges per year"],
+    "description": "Details the loan interest rates.",
+    "text_payload": "Dear {{customer_name}},\n\nInstaMoney loans feature a flat interest rate ranging from 24% to 36% per annum (p.a.). Your specific interest rate is determined by our internal credit scoring system based on your risk profile, credit score, and financial documents.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_loan_tenure",
+    "product_segment": "IM",
+    "keywords": ["tenure", "duration", "how many months", "repayment period", "3 months", "12 months"],
+    "description": "Details loan repayment terms.",
+    "text_payload": "Dear {{customer_name}},\n\nWe offer flexible loan repayment tenures starting from 3 months up to 12 months. You can select your preferred repayment tenure during the loan offer acceptance phase in the app.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_prepayment_foreclosure",
+    "product_segment": "IM",
+    "keywords": ["foreclosure", "prepayment", "preclose", "close early", "early closure", "charges"],
+    "description": "Explains prepayments and foreclosure policy.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can preclose your InstaMoney loan without any foreclosure charges after successfully paying at least 3 consecutive EMIs. If you choose to foreclose before 3 EMIs, a standard foreclosure fee of 3% on the outstanding principal will apply.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_processing_fee",
+    "product_segment": "IM",
+    "keywords": ["processing fee", "upfront fee", "disbursal fee", "deduction", "charges check"],
+    "description": "Explains the processing fee structure.",
+    "text_payload": "Dear {{customer_name}},\n\nA non-refundable processing fee of 2% to 5% of the approved loan amount is charged. This fee is deducted upfront from your loan amount during disbursal, meaning you will receive the approved loan minus this fee.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_late_payment_penalty",
+    "product_segment": "IM",
+    "keywords": ["late payment", "penalty", "daily charge", "default penalty", "missed emi", "overdue"],
+    "description": "Details late payment fees.",
+    "text_payload": "Dear {{customer_name}},\n\nTo avoid late fees, please ensure your EMIs are paid on time. Delayed payments incur a daily penalty of 2% of the outstanding EMI amount. Additionally, a flat bouncing charge of INR 500 is levied for any auto-debit (e-mandate) failure.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_platform_convenience_fee",
+    "product_segment": "IM",
+    "keywords": ["convenience fee", "platform fee", "199", "additional fee", "im fee"],
+    "description": "Explains the convenience fee.",
+    "text_payload": "Dear {{customer_name}},\n\nA flat platform convenience fee of INR 199 is applicable to all disbursed InstaMoney loans. This is charged to cover digital platform operational costs and is standard across all loan bookings.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_disbursement_time",
+    "product_segment": "IM",
+    "keywords": ["disbursement time", "how long to transfer", "payout time", "transfer timeline", "2 hours"],
+    "description": "Details the standard disbursement timeline.",
+    "text_payload": "Dear {{customer_name}},\n\nOnce your loan agreement is digitally signed and the auto-debit setup is complete, the loan amount is transferred directly to your bank account within 2 hours. Funds are usually processed instantly.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_disbursement_delay",
+    "product_segment": "IM",
+    "keywords": ["disbursement delay", "money not received", "approved but no transfer", "pending payout", "delay transfer"],
+    "description": "Addresses delayed disbursements.",
+    "text_payload": "Dear {{customer_name}},\n\nWe apologize for the delay. Sometimes bank transfers take longer due to server traffic or banking network congestion. If you have signed the agreement and haven't received funds in 24 hours, please share your transaction ID or registered mobile number so we can check immediately.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_doc_pan_aadhaar",
+    "product_segment": "IM",
+    "keywords": ["pan card", "aadhaar", "id proof", "mandatory documents", "kyc upload", "documents required"],
+    "description": "Details PAN and Aadhaar requirements.",
+    "text_payload": "Dear {{customer_name}},\n\nTo process your loan, you must upload a clear scanned copy of your PAN Card (mandatory for credit assessment) and your Aadhaar Card. Ensure details like name and birthdate match exactly across both documents.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_doc_bank_statement",
+    "product_segment": "IM",
+    "keywords": ["bank statement", "salary account statement", "pdf statement", "net banking log", "income verification"],
+    "description": "Details bank statement requirements.",
+    "text_payload": "Dear {{customer_name}},\n\nYou must provide your salary account bank statement for the last 3 months in PDF format. This statement should clearly show your monthly salary credits, name, account number, and transaction history. Uploading it via Net Banking is also supported for faster verification.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_doc_salary_slip",
+    "product_segment": "IM",
+    "keywords": ["salary slip", "payslip", "salary proof", "proof of salary", "income slip"],
+    "description": "Details salary slip requirements.",
+    "text_payload": "Dear {{customer_name}},\n\nPlease upload the salary slip for your latest working month. The salary slip must display the company name, your name, designation, net salary, and deductions clearly. A PDF or a clean photo is accepted.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_self_employed_inquiry",
+    "product_segment": "IM",
+    "keywords": ["freelance loan", "self employed loan", "business loan", "shop owner", "own business"],
+    "description": "Addresses inquiries from self-employed individuals.",
+    "text_payload": "Dear {{customer_name}},\n\nWe appreciate your interest in InstaMoney. However, our credit criteria currently only allow us to serve full-time salaried professionals. We do not offer personal loans to self-employed individuals, business owners, or freelancers at this time.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_salary_cash_cheque",
+    "product_segment": "IM",
+    "keywords": ["cash salary", "cheque salary", "hand salary", "no bank transfer", "paid cash"],
+    "description": "Addresses cases where salary is not received via bank transfer.",
+    "text_payload": "Dear {{customer_name}},\n\nTo qualify for an InstaMoney loan, your monthly salary must be credited via direct online bank transfer (NEFT/IMPS/UPI) by your employer. We cannot accept salary payments received in cash, hand delivery, or via cheque.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_app_loading_error",
+    "product_segment": "IM",
+    "keywords": ["app crash", "white screen", "app not loading", "play store error", "application login bug"],
+    "description": "Troubleshoots app loading issues.",
+    "text_payload": "Dear {{customer_name}},\n\nIf you are facing app loading errors, please try these troubleshooting steps:\n1. Clear the app cache and data from your phone settings.\n2. Ensure you are using the latest version of the InstaMoney app from the Google Play Store.\n3. Switch between Wi-Fi and mobile data to check internet stability.\nIf the issue persists, please send a screenshot of the error to our support team.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_bank_verification_failed",
+    "product_segment": "IM",
+    "keywords": ["bank verification fail", "account verify fail", "penny drop fail", "wrong ifsc", "bank validation"],
+    "description": "Addresses bank account verification failures.",
+    "text_payload": "Dear {{customer_name}},\n\nYour bank verification failed, which usually happens due to mismatching name details between your bank account and PAN, or incorrect IFSC/Account number entries. Please double-check your bank details in the app or upload a cancelled cheque to help us verify your account manually.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_e_mandate_setup",
+    "product_segment": "IM",
+    "keywords": ["auto debit", "mandate", "e mandate", "enach", "debit registration", "auto pay"],
+    "description": "Explains e-mandate auto-debit setup.",
+    "text_payload": "Dear {{customer_name}},\n\nTo ensure timely repayment, setting up auto-debit (e-mandate/eNACH) is a mandatory step before loan disbursement. You can register your e-mandate using Net Banking credentials or your Debit Card through the secure link in the app. This automates your monthly EMI payments on the due date.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_loan_cancellation",
+    "product_segment": "IM",
+    "keywords": ["cancel loan", "cancel agreement", "do not want loan", "refund loan", "withdraw request"],
+    "description": "Explains loan cancellation policies.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can request loan cancellation within 24 hours of disbursement, provided the funds have not been utilized. You must refund the exact disbursed amount to our official account, after which we will process the cancellation. Note that processing fees are non-refundable.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_noc_certificate",
+    "product_segment": "IM",
+    "keywords": ["noc", "no objection certificate", "clearance certificate", "closed loan noc", "loan closure letter"],
+    "description": "Explains how to get a No Objection Certificate.",
+    "text_payload": "Dear {{customer_name}},\n\nOnce your loan is fully closed and all EMIs are successfully paid, your No Objection Certificate (NOC) is automatically generated. You can download your NOC directly from the 'My Loans' section in the InstaMoney app within 7 business days of final payment.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_repayment_payment_link",
+    "product_segment": "IM",
+    "keywords": ["pay emi link", "repayment link", "pay online", "upi payment emi", "payment option"],
+    "description": "Provides info on manual payment links.",
+    "text_payload": "Dear {{customer_name}},\n\nIf auto-debit fails or you wish to make a manual payment, you can generate a secure repayment link directly from the app. Alternatively, log in to our web portal, navigate to the active loan dashboard, and use UPI, Net Banking, or Debit Card to complete your payment.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_refund_excess_payment",
+    "product_segment": "IM",
+    "keywords": ["double payment", "refund excess", "extra deduction", "deducted twice", "refund emi"],
+    "description": "Explains refund process for excess payments.",
+    "text_payload": "Dear {{customer_name}},\n\nIf your bank account was debited twice or you made an excess payment, please share your bank statement showing both deductions. Once verified by our finance team, the excess amount will be refunded to your original bank account within 3 to 5 business days.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_emi_date_change",
+    "product_segment": "IM",
+    "keywords": ["change emi date", "postpone emi", "repayment date", "salary date delay", "shift date"],
+    "description": "Explains the policy on changing EMI due dates.",
+    "text_payload": "Dear {{customer_name}},\n\nWe apologize, but we do not support changing or postponing your EMI due date after the loan is disbursed. The repayment schedule is fixed at the time of agreement signing to match bank mandate rules. Please ensure sufficient balance on your scheduled date to avoid penalties.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_part_payment",
+    "product_segment": "IM",
+    "keywords": ["part payment", "partial payment", "pay principal", "reduce principal", "extra payment"],
+    "description": "Explains part-payment rules.",
+    "text_payload": "Dear {{customer_name}},\n\nInstaMoney loans do not support partial or part-payments during the loan tenure. You can either pay your standard monthly EMIs as per the schedule, or make a full foreclosure payment to close the loan account entirely after paying at least 3 EMIs.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_loan_limit_increase",
+    "product_segment": "IM",
+    "keywords": ["increase limit", "credit limit", "higher loan", "more loan amount", "upgrade limit"],
+    "description": "Details how to increase loan limits.",
+    "text_payload": "Dear {{customer_name}},\n\nYour loan limit is evaluated automatically based on your repayment track record. Successfully paying your current loan EMIs on time will improve your internal credit rating and make you eligible for a higher limit (up to INR 25,000) on your next loan application.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_referral_program",
+    "product_segment": "IM",
+    "keywords": ["referral code", "refer friend", "invite bonus", "referral reward", "share app"],
+    "description": "Explains the borrow referral program.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can earn rewards by referring your friends to InstaMoney! Share your unique referral code from the 'Refer & Earn' section of the app. Once your referred friend successfully registers and accepts a loan, referral bonus points will be credited to your account.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_loan_rejection_reapply",
+    "product_segment": "IM",
+    "keywords": ["reapply loan", "rejected reapply", "when can i apply again", "cool down period", "rejected apply"],
+    "description": "Details the cooldown period after loan rejection.",
+    "text_payload": "Dear {{customer_name}},\n\nIf your loan application was rejected, there is a standard 90-day cooldown period before you can reapply. This time allows you to improve your credit score and clear any outstanding dues. You will see the reapply option active in the app after 90 days.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_active_loan_multiple",
+    "product_segment": "IM",
+    "keywords": ["second loan", "another loan", "two loans", "multiple active loans", "concurrent loan"],
+    "description": "Details rules for applying for multiple concurrent loans.",
+    "text_payload": "Dear {{customer_name}},\n\nWe do not support multiple active loans at the same time. You must fully repay and close your current active InstaMoney loan before you can apply for a new loan on the platform.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "im_plus_overview",
+    "product_segment": "IM+",
+    "keywords": ["im+", "p2p lending", "investment product", "how im+ works", "lending portfolio"],
+    "description": "Overview of the IM+ investment product.",
+    "text_payload": "Dear {{customer_name}},\n\nIM+ is our premium Peer-to-Peer (P2P) investment portfolio product. Instead of lending to one individual, your capital is automatically diversified across hundreds of verified borrowers using our auto-allocation technology. This helps secure stable returns while mitigating default risks.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_returns",
+    "product_segment": "IM+",
+    "keywords": ["expected returns", "yield", "net returns", "interest earned", "returns rate", "12%", "15%"],
+    "description": "Explains IM+ expected returns.",
+    "text_payload": "Dear {{customer_name}},\n\nIM+ portfolios offer net expected returns ranging from 12% to 15% per annum. Interest is calculated based on monthly borrower repayments and credited directly to your escrow account. Actual returns depend on your portfolio selection and default rates.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_conservative",
+    "product_segment": "IM+",
+    "keywords": ["conservative portfolio", "low risk", "safe investment", "prime borrowers", "cibil score 750"],
+    "description": "Details of the Conservative risk portfolio.",
+    "text_payload": "Dear {{customer_name}},\n\nThe Conservative Portfolio under IM+ focuses on low-risk profiles, lending exclusively to prime borrowers with credit scores above 750. It yields an expected stable net return of approximately 12% p.a., minimizing credit default risk.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_moderate",
+    "product_segment": "IM+",
+    "keywords": ["moderate portfolio", "medium risk", "balanced investment", "13%", "14%"],
+    "description": "Details of the Moderate risk portfolio.",
+    "text_payload": "Dear {{customer_name}},\n\nThe Moderate Portfolio balances capital growth and risk exposure, distributing funds between prime and sub-prime verified borrowers. It targets expected net returns of 13% to 14% p.a., matching average market yield structures.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_aggressive",
+    "product_segment": "IM+",
+    "keywords": ["aggressive portfolio", "high risk", "maximum returns", "sub prime", "15%"],
+    "description": "Details of the Aggressive risk portfolio.",
+    "text_payload": "Dear {{customer_name}},\n\nThe Aggressive Portfolio maximizes yield potential by lending to higher-risk, sub-prime borrowers. It offers the highest expected net returns of up to 15% p.a., but experiences higher default rate fluctuations.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_lock_in",
+    "product_segment": "IM+",
+    "keywords": ["lock in period", "cannot withdraw", "locked capital", "minimum tenure", "3 months lock"],
+    "description": "Details the mandatory lock-in period.",
+    "text_payload": "Dear {{customer_name}},\n\nAll IM+ investment portfolios are subject to a mandatory 3-month lock-in period starting from the date of portfolio activation. During this lock-in period, you cannot withdraw or request liquidation of your invested principal.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_premature_withdrawal",
+    "product_segment": "IM+",
+    "keywords": ["early withdrawal", "premature liquidation", "liquidate early", "exit fee", "early exit"],
+    "description": "Explains premature withdrawal policies.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can request premature liquidation of your IM+ portfolio after the 3-month lock-in period. Please note that an early exit liquidating fee of 1% of the total portfolio value will be applicable. Full withdrawals at maturity are free of charges.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_liquidation_timeline",
+    "product_segment": "IM+",
+    "keywords": ["withdrawal timeline", "processing withdrawal", "liquidate time", "escrow payout time", "2 to 5 days"],
+    "description": "Explains withdrawal processing times.",
+    "text_payload": "Dear {{customer_name}},\n\nOnce a liquidation request is submitted, it takes 2 to 5 business days for our matching engine to transfer the loans to other active investors. The funds are then credited to your escrow account and can be moved to your linked bank account.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_reinvestment_option",
+    "product_segment": "IM+",
+    "keywords": ["reinvestment", "payout model", "compounding", "monthly cash", "interest payout"],
+    "description": "Details reinvestment vs payout options.",
+    "text_payload": "Dear {{customer_name}},\n\nIM+ supports two return models:\n1. Payout Model: Interest earned is credited to your escrow account monthly, allowing regular cash flows.\n2. Reinvestment Model: Interest earned is automatically reinvested to compound your portfolio yields. You can toggle this setting in your portfolio configuration page.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_escrow_setup",
+    "product_segment": "IM+",
+    "keywords": ["escrow account", "p2p bank account", "trustee escrow", "icici escrow", "investor virtual account"],
+    "description": "Explains the Escrow account mechanism.",
+    "text_payload": "Dear {{customer_name}},\n\nTo ensure safety and transparency as per RBI guidelines, all investor funds are held in a secure Escrow Account managed by an independent Trustee bank. All lending and repayment transactions pass directly through this escrow account, completely isolated from LenDenClub's operating accounts.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_tax_implication",
+    "product_segment": "IM+",
+    "keywords": ["tax returns", "tds", "income tax p2p", "interest tax", "tax statement", "itr"],
+    "description": "Explains P2P investment tax rules.",
+    "text_payload": "Dear {{customer_name}},\n\nAs per Indian Tax Laws, interest earned from P2P lending is classified as 'Income from Other Sources' and taxed according to your individual income tax slab. We do not deduct TDS (Tax Deducted at Source) on repayments. We provide an annual interest statement in your dashboard for your ITR filings.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_rbi_limit",
+    "product_segment": "IM+",
+    "keywords": ["rbi regulation", "maximum P2P investment", "50 lakhs", "regulatory limit", "limit across platforms"],
+    "description": "Details RBI investment regulations.",
+    "text_payload": "Dear {{customer_name}},\n\nAccording to Reserve Bank of India (RBI) regulations for P2P platforms, the aggregate investment limit for a single investor across all P2P platforms combined cannot exceed INR 50,00,000. Investors investing more than INR 10,00,000 must submit a net worth certificate signed by a Chartered Accountant.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_default_risk",
+    "product_segment": "IM+",
+    "keywords": ["default risk", "borrower default", "capital loss", "bad debt", "risk mitigation"],
+    "description": "Addresses risk of default and mitigation.",
+    "text_payload": "Dear {{customer_name}},\n\nWhile P2P lending carries credit risk, IM+ mitigates default risk by automatically diversifying your capital across hundreds of borrowers in small tranches (INR 50 - 100). Thus, if a single borrower defaults, it only impacts a fraction of a percent of your total portfolio value.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_min_max_investment",
+    "product_segment": "IM+",
+    "keywords": ["minimum investment", "starting amount", "maximum portfolio", "invest limits", "10000"],
+    "description": "Details minimum/maximum investment limits.",
+    "text_payload": "Dear {{customer_name}},\n\nThe minimum starting capital required for an IM+ portfolio is INR 10,000. The maximum investment is subject to the RBI cap of INR 50,00,000 across all peer-to-peer lending platforms in India.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_escrow_withdrawal",
+    "product_segment": "IM+",
+    "keywords": ["withdraw idle", "transfer to bank", "escrow payout", "withdraw escrow", "move funds"],
+    "description": "Explains how to withdraw idle escrow funds.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can withdraw idle or unallocated funds from your escrow account back to your registered bank account at any time. Simply go to the 'Wallet' section of your investor dashboard and click 'Withdraw'. Transfers take 1 business day to process.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_multiple_portfolios",
+    "product_segment": "IM+",
+    "keywords": ["two portfolios", "multiple investments", "different risk portfolios", "open another portfolio"],
+    "description": "Explains multiple portfolios creation.",
+    "text_payload": "Dear {{customer_name}},\n\nYes, you can create and manage multiple investment portfolios with different risk profiles (e.g., one Conservative portfolio for stability and one Aggressive portfolio for higher yields) under the same LenDenClub account.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_add_funds",
+    "product_segment": "IM+",
+    "keywords": ["add money", "top up portfolio", "deposit funds", "increase investment", "more capital"],
+    "description": "Explains adding funds to an existing portfolio.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can top up or add funds to your active IM+ portfolio at any time. The added funds will be automatically queued and diversified across new borrowers by our matching engine during the next batch allocation.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_auto_diversification",
+    "product_segment": "IM+",
+    "keywords": ["auto allocation", "diversification formula", "diversify algorithm", "how splits work", "fractional lending"],
+    "description": "Explains the auto-diversification logic.",
+    "text_payload": "Dear {{customer_name}},\n\nOur auto-diversification engine ensures that your investment is fractionalized. For example, a deposit of INR 20,000 will be split and distributed in units of INR 100 across 200 distinct borrowers. This prevents default concentration and ensures stable yields.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "im_plus_statements_reports",
+    "product_segment": "IM+",
+    "keywords": ["account statement", "interest report", "portfolio report", "download statement", "investment ledger"],
+    "description": "Explains how to get investment reports.",
+    "text_payload": "Dear {{customer_name}},\n\nYou can download monthly account statements, interest statements, and borrower ledger reports from the 'Reports' section of your investor dashboard. These are available in both PDF and Excel formats.\n\nBest regards,\nLenDenClub Investor Support Team"
+  },
+  {
+    "template_id": "both_identity_verification_failed",
+    "product_segment": "BOTH",
+    "keywords": ["kyc fail", "identity fail", "aadhaar verification fail", "document mismatch", "kyc reject"],
+    "description": "Addresses generic identity verification issues.",
+    "text_payload": "Dear Customer,\n\nWe noticed your KYC/identity verification failed. This usually occurs if the uploaded documents are blurry or if the name/birthdate details on your PAN Card do not match your Aadhaar Card. Please re-upload clear photos or contact our support desk to update your details.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "both_contact_support_details",
+    "product_segment": "BOTH",
+    "keywords": ["contact support", "customer care phone", "email address", "support timings", "help desk"],
+    "description": "Provides contact channels and support timings.",
+    "text_payload": "Dear Customer,\n\nYou can contact our customer support team via email at support@lendenclub.com or call our toll-free number 1800-XXX-XXXX between 9:00 AM and 6:00 PM, Monday to Saturday. We are closed on public holidays.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "both_profile_update",
+    "product_segment": "BOTH",
+    "keywords": ["change email", "update phone number", "change address", "modify details", "profile edit"],
+    "description": "Explains how to update account details.",
+    "text_payload": "Dear Customer,\n\nTo update your registered email address or phone number, please navigate to 'Account Settings' in the app and submit an OTP verified request. For bank details changes, you must upload a cancelled cheque showing your name for validation.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "both_p2p_lending_faqs",
+    "product_segment": "BOTH",
+    "keywords": ["what is peer to peer", "how P2P lending works", "peer to peer loan invest", "p2p system"],
+    "description": "General explanation of peer-to-peer lending.",
+    "text_payload": "Dear Customer,\n\nPeer-to-Peer (P2P) lending is a financial model that directly connects individual borrowers seeking loans with individual/institutional investors seeking attractive returns. LenDenClub acts as a technology platform and RBI-registered NBFC-P2P facilitating this connection, credit-scoring the borrowers, and collecting repayments.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "both_account_deletion",
+    "product_segment": "BOTH",
+    "keywords": ["delete account", "close account", "deactivate login", "remove profile", "unregister"],
+    "description": "Explains account deletion policy.",
+    "text_payload": "Dear Customer,\n\nTo permanently close and delete your LenDenClub account, ensure you have no active loans or outstanding investment portfolios. If all accounts are cleared, please email support@lendenclub.com with your registered details requesting closure, and we will delete your account within 3 business days.\n\nBest regards,\nLenDenClub Customer Support Team"
+  },
+  {
+    "template_id": "both_login_password_reset",
+    "product_segment": "BOTH",
+    "keywords": ["reset password", "forgot password", "otp not received", "login error", "login block"],
+    "description": "Troubleshoots login and password reset issues.",
+    "text_payload": "Dear Customer,\n\nIf you are unable to log in, please click 'Forgot Password' on the login screen to receive a password reset link via your registered email or phone number. If you are not receiving OTPs, verify that your mobile network is working and promotional SMS are not blocked on your phone.\n\nBest regards,\nLenDenClub Customer Support Team"
+  }
+]

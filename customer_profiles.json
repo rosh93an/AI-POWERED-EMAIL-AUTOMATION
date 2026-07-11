@@ -1,0 +1,161 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "product_segment": "IM",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT101",
+        "subject": "EMI payment confirmation",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "product_segment": "IM+",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT102",
+        "subject": "Portfolio allocation delay",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "product_segment": "IM",
+    "ticket_history": []
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Ananya Reddy",
+    "email": "ananya.reddy@example.com",
+    "product_segment": "IM+",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT104",
+        "subject": "Aggressive portfolio yield query",
+        "status": "OPEN"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Rohan Das",
+    "email": "rohan.das@example.com",
+    "product_segment": "IM",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT105",
+        "subject": "Auto debit failure query",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST006",
+    "name": "Sneha Iyer",
+    "email": "sneha.iyer@example.com",
+    "product_segment": "IM+",
+    "ticket_history": []
+  },
+  {
+    "customer_id": "CUST007",
+    "name": "Kabir Mehta",
+    "email": "kabir.mehta@example.com",
+    "product_segment": "IM",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT107",
+        "subject": "Prepayment eligibility",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST008",
+    "name": "Neha Gupta",
+    "email": "neha.gupta@example.com",
+    "product_segment": "IM+",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT108",
+        "subject": "Escrow withdrawal timeline",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST009",
+    "name": "Arjun Malhotra",
+    "email": "arjun.malhotra@example.com",
+    "product_segment": "IM",
+    "ticket_history": []
+  },
+  {
+    "customer_id": "CUST010",
+    "name": "Diya Bose",
+    "email": "diya.bose@example.com",
+    "product_segment": "IM+",
+    "ticket_history": []
+  },
+  {
+    "customer_id": "CUST011",
+    "name": "Manish Verma",
+    "email": "manish.verma@example.com",
+    "product_segment": "IM",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT111",
+        "subject": "Salary account switch",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST012",
+    "name": "Riya Sen",
+    "email": "riya.sen@example.com",
+    "product_segment": "IM+",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT112",
+        "subject": "Tax statement download",
+        "status": "CLOSED"
+      }
+    ]
+  },
+  {
+    "customer_id": "CUST013",
+    "name": "Aditya Rao",
+    "email": "aditya.rao@example.com",
+    "product_segment": "IM",
+    "ticket_history": []
+  },
+  {
+    "customer_id": "CUST014",
+    "name": "Kriti Joshi",
+    "email": "kriti.joshi@example.com",
+    "product_segment": "IM+",
+    "ticket_history": []
+  },
+  {
+    "customer_id": "CUST015",
+    "name": "Siddharth Nair",
+    "email": "siddharth.nair@example.com",
+    "product_segment": "IM",
+    "ticket_history": [
+      {
+        "ticket_id": "TKT115",
+        "subject": "EMI bounce penalty info",
+        "status": "CLOSED"
+      }
+    ]
+  }
+]
